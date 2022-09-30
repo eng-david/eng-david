@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, my name is David Junior
+
+- 🌎 Brasília-DF, Brazil
+- ⚡️Electrical Engineer
+- 👨🏻‍💻Technology aspirant
+- 📍Focused on the study of JAVA
+
+
+
 
 <!--
 **eng-david/eng-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
