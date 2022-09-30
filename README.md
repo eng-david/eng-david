@@ -3,7 +3,7 @@
 🌎 Brasília-DF, Brazil<br>
 ⚡️Electrical Engineer<br>
 👨🏻‍💻Technology aspirant<br>
-📍Focused on the study of JAVA<br>
+📍Focused on learning Java<br>
 
 <div>
 <a href="https://www.linkedin.com/in/eng-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
