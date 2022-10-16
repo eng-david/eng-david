@@ -7,13 +7,13 @@
             ⚡️Electrical Engineer<br>
             👨🏻‍💻Technology aspirant<br>
             📍Focused on learning Java<br>
-    	</td>
+    	</td><!--
         <td>
             <div>
                 <a href="https://github.com/eng-david">
                 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-david&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
             </div>
-        </td>
+        </td>-->
         <td>
             <div>
                 <a href="https://github.com/eng-david">
