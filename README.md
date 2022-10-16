@@ -1,5 +1,9 @@
 <!-- # Hi, my name is David Junior -->
 
+<div>
+    <a href="https://www.linkedin.com/in/eng-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 <table>
   	<tr>
     	<td>
@@ -17,10 +21,6 @@
         </td>
     </tr>
 </table>
-
-<div>
-    <a href="https://www.linkedin.com/in/eng-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <!--
 🌎 Brasília-DF, Brazil<br>
