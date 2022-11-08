@@ -1,7 +1,7 @@
-<!-- # Hi, my name is David Junior -->
 
 <div>
     <a href="https://www.linkedin.com/in/eng-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:david.volt@outlook.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&color=blue" target="_blank"></a>
 </div>
 
 <table>
@@ -15,7 +15,7 @@
         <td>
             <div>
                 <a href="https://github.com/eng-david">
-                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-david&layout=compact&langs_count=7&theme=dark&card_width=100"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-david&layout=compact&langs_count=7&theme=dark&card_width=100"/>
                 </a>
             </div>
         </td>
@@ -23,31 +23,9 @@
 </table>
 
 <!--
-🌎 Brasília-DF, Brazil<br>
-⚡️Electrical Engineer<br>
-👨🏻‍💻Technology aspirant<br>
-📍Focused on learning Java<br>
--->
-
-<!--
 <div align="center">
   <a href="https://github.com/eng-david">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-david&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-david&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
-
-<!--
-**eng-david/eng-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
