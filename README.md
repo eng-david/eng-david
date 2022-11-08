@@ -15,7 +15,7 @@
         <td>
             <div>
                 <a href="https://github.com/eng-david">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-david&layout=compact&langs_count=7&theme=dark&card_width=100"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-david&langs_count=7&theme=dark&layout=compact"/>
                 </a>
             </div>
         </td>
