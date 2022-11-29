@@ -10,7 +10,7 @@
             🌎 Brasília-DF, Brazil<br>
             ⚡️Electrical Engineer<br>
             👨🏻‍💻Technology aspirant<br>
-            📍Focused on learning Java<br>
+            📍Focused on learning Java & C#<br>
     	</td>
         <td>
             <div>
