@@ -1,7 +1,9 @@
 
 <div>
-    <a href="https://www.linkedin.com/in/eng-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <!--
+<a href="https://www.linkedin.com/in/eng-david" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:david.volt@outlook.com"><img src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+-->
 </div>
 
 <table>
@@ -9,7 +11,6 @@
     	<td>
             🌎 Brasília-DF, Brazil<br>
             ⚡️Electrical Engineer<br>
-            📍Focused on learning Java & C#<br>
     	</td>
         <td>
             <div>
